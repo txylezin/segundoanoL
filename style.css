@@ -23,6 +23,10 @@ body {
 	padding: 10px;
 }
 
+#jogos {
+	background: #000;
+	padding: 10px;
+	opacity : 0.6;
 }
 #rodape {
 	text-align: center;
@@ -30,6 +34,10 @@ body {
 }
 
 .img-campanha {
+	border: 10px solid #868A08;
+}
+
+.img-contato {
 	border: 10px solid #868A08;
 }
 
@@ -51,4 +59,32 @@ h3 {
 h4 {
 	color: #828271;
 	font-size: 1.2em;
+}
+#planejamento {
+	      background: #556b2f;
+	      padding: 10px;
+	      opacity : 0.6;
+}	
+
+#iframe{
+ float: left;
+ width: 23%;
+ border: thin solid;
+ padding: 5px;
+ margin: 30px 0px 0px 0;
+}
+#professor {
+	   height: 130px;
+	   height: 130px;
+	   border-radius: 70%;
+}
+#texto1 {
+	background: #c5c5b2;
+	padding: 10px;
+	opacity : 0.6;
+}
+#videos {
+	background: #000;
+	padding: 10px;
+	opacity : 0.6;
 }
