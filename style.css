@@ -23,11 +23,42 @@ body {
 	padding: 10px;
 }
 
-#jogos {
-	background: #000;
+#home {
+	background: #836FFF;
 	padding: 10px;
 	opacity : 0.6;
 }
+
+#sobreaempresa {
+	background: #00FFFF;
+	padding: 10px;
+	opacity : 0.6;
+}
+
+#vídeos {
+	background: #00FF7F;
+	padding: 10px;
+	opacity : 0.6;
+}
+
+#funcionários {
+	background: #A020F0;
+	padding: 10px;
+	opacity: 0.6;
+}
+
+#contato {
+	background: #F0F8FF;
+	padding: 10px;
+	opacity: 0.6;
+}
+
+#vagas {
+	background: #FFFF00;
+	padding: 10px;
+	opacity: 0.6;
+}
+
 #rodape {
 	text-align: center;
 	color: #FFFFFF;
